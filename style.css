@@ -6,7 +6,7 @@
 
 .header-container{
     background-color: rgb(75, 67, 67);
-    height:150px;
+    height:140px;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -35,7 +35,7 @@
     font: 3em sans-sarif;
 }
 .name1{
-    color:red;
+    color:rgb(168, 174, 133);
     
 }
 .form-submit{
@@ -43,14 +43,14 @@
 }
 .footer{
     text-align: center;
-    padding-top: 20px;
-    height:150px;
+    padding-top: 30px;
+    height:140px;
     width: 100%;
-    background-color: rgb(45, 41, 41);
-    color: black;
+    background-color: rgb(233, 203, 203);
+    color: rgb(18, 16, 16);
 }
 .name{
-    margin-top: 20px;
-    color:Red;
+    margin-top: 30px;
+    color:rgb(12, 50, 77);
     font-weight: bolder;
 }
